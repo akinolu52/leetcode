@@ -27,8 +27,3 @@ var lengthOfLongestSubstring = function (s) {
 
     return count;
 };
-
-console.log(lengthOfLongestSubstring("abcabcbb"));
-console.log(lengthOfLongestSubstring("dvdf"));
-console.log(lengthOfLongestSubstring("bbbbb"));
-console.log(lengthOfLongestSubstring("pwwkew"));
