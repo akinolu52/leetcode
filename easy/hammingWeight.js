@@ -16,7 +16,6 @@ var hammingWeight = function (n) {
 
 var hammingWeight2 = function (n) {
     const count = n.toString(2).split(/1/g).length - 1;
-    console.log(count);
 
     return count;
 };
