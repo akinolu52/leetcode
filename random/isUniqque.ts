@@ -2,7 +2,7 @@
 function isUnique(str: string): boolean {
     const strSet = new Set([...str]);
 
-    if(strSet.size !== str.length) return false;
+    if (strSet.size !== str.length) return false;
     return true;
 }
 
@@ -10,7 +10,7 @@ function isUnique(str: string): boolean {
 function isUnique2(str: string): boolean {
     if (str.length > 128) return false;
 
-    const charSet:boolean[] = new Array(128).fill(false);
+    const charSet: boolean[] = new Array(128).fill(false);
 
     for (let i = 0; i < str.length; i++) {
         const element = str[i] as unknown as number;

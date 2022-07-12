@@ -8,7 +8,7 @@ function checkPermutation(str1: string, str2: string): boolean {
     const charArr1 = Array.from(str1);
     const charArr2 = Array.from(str2);
 
-    for(let i = 0; i < charArr1.length; i++){
+    for (let i = 0; i < charArr1.length; i++) {
         const element = charArr1[i];
         if (!charArr2.includes(element)) return false;
     }

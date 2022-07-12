@@ -9,13 +9,13 @@ function URLify(str: string, len: number): string {
     for (let i = 0; i < len; i++) {
         const element = str[i];
 
-        if(element === ' '){
+        if (element === ' ') {
             url += '%20';
         } else {
             url += element;
         }
     }
-    
+
     return url;
 }
 

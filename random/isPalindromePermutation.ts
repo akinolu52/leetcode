@@ -6,18 +6,18 @@ function isPalindromePermutation(str: string): boolean {
 
     const charMap = new Map<string, number>();
 
-    for(let i = 0; i < str.length; i++) {
+    for (let i = 0; i < str.length; i++) {
         const element = str[i];
         const elementCount = str.length - str.replace(new RegExp(element, 'g'), '').length;
         charMap.set(element, elementCount)
     }
 
     let oddCount = 0;
-    for(let [_, value] of charMap) {
+    for (let [_, value] of charMap) {
         if (value % 2 !== 0) ++oddCount;
         if (oddCount > 1) return false;
     }
-    
+
     return oddCount <= 1;
 }
 
@@ -27,10 +27,10 @@ function isPalindromePermutation2(str: string): boolean {
 
     const charSet = new Set();
 
-    for(let i = 0; i < str.length; i++) {
+    for (let i = 0; i < str.length; i++) {
         const element = str[i];
 
-        if(charSet.has(element)) charSet.delete(element);
+        if (charSet.has(element)) charSet.delete(element);
         else charSet.add(element);
     }
 
