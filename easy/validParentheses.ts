@@ -26,8 +26,7 @@ function isValid(s: string): boolean {
 
     const stack: string[] = [];
 
-    for(let i = 0; i < s.length; i++){
-        const char = s[i] as string;
+    for(let char of s){
         if(!char || char === ' ') continue;
         
         if (!maps[char]){
