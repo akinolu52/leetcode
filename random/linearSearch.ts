@@ -1,3 +1,7 @@
+/**
+ * useful for un-sorted arrays
+ */
+
 function linearSearchIndexOf(arr: Array<string | number>, find: string | number): number {
     for(let index in (arr as any)){
         const curr = arr[index as any];
