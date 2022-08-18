@@ -19,8 +19,6 @@ function anagram(strA: string, strB: string): boolean {
         i++;
     }
 
-    // console.log(strA, strB)
-
     return true;
 }
 
