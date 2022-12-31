@@ -1,4 +1,10 @@
 
+'''
+find the substrings
+check if the sorted substring is equal to the sorted pattern
+
+'''
+
 def rearrange_string(str):
     str = list(str)
     str.sort()
@@ -15,11 +21,6 @@ pattern = rearrange_string(pattern)
 
 all_anagrams = []
 
-'''
-find the substrings
-check if the sorted substring is equal to the sorted pattern
-
-'''
 for index in range(len(str)):
     substring = str[index: index + len(pattern)]
 
