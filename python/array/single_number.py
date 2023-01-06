@@ -7,7 +7,7 @@ def singleNumber(nums) -> int:
 
     lookup = {}
 
-    # create a lookup dictionary bases on occurrence
+    # create a lookup dictionary based on occurrence
     for num in nums:
         if num in lookup:
             lookup[num] = lookup[num] + 1
