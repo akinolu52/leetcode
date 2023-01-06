@@ -4,9 +4,6 @@
 @return: encodes a list of strings to a single string.
 """
 
-
-c
-
 """
     @param: s: A string
     @return: decodes a single string to a list of strings
