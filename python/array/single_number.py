@@ -19,7 +19,7 @@ def singleNumber(nums) -> int:
         if val == 1:
             return key
 
-    return 0
+    return -1
 
 
 nums = [2, 2, 1]
