@@ -4,6 +4,16 @@
 @return: encodes a list of strings to a single string.
 """
 
+
+def encode(arr):
+    result = ""
+
+    for s in arr:
+        result += str(len(s)) + '#' + s
+
+    return result
+
+
 """
     @param: s: A string
     @return: decodes a single string to a list of strings
