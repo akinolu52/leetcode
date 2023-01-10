@@ -3,7 +3,6 @@ def longestCommonPrefix(strs) -> str:
     shortest_string = min(strs, key=len)
 
     strs.remove(shortest_string)
-    print('shortest_string ', shortest_string, strs)
 
     for s in strs:
         while len(shortest_string) > 0:
