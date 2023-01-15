@@ -7,4 +7,4 @@ def isPerfectSquare(num: int) -> bool:
 
 print(isPerfectSquare(16))
 print(isPerfectSquare(14))
-# print(isPerfectSquare(2000105819))
+print(isPerfectSquare(2000105819))
