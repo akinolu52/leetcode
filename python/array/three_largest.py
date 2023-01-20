@@ -1,5 +1,12 @@
 import sys
 
+'''
+Given an array with all distinct elements, 
+find the largest three elements. 
+Expected time complexity is O(n) and extra space is O(1). 
+'''
+
+
 def print3largest(values):
 
     first = second = third = -sys.maxsize
