@@ -20,13 +20,11 @@ def rearrange(arr):
             result.append(arr[right])
 
             right -= 1
-            checkLargest = False
         else:
             result.append(arr[left])
 
             left += 1
-            checkLargest = False
-
+        checkLargest = False
     return result
 
 
