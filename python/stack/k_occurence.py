@@ -18,7 +18,8 @@ def mostFrequentNumber(arr, k: int):
     result = []
     occurrence = {}
 
-    freq = [[] for i in range(len(arr) + 1)]
+    # freq = [[] for _ in range(len(arr) + 1)]
+    freq = [None] * (len(arr) + 1)
 
     print('freq = ', freq)
 
@@ -28,7 +29,7 @@ def mostFrequentNumber(arr, k: int):
         else:
             occurrence[val] = 1
 
-    for n, c in occurrence.items():
+    for n in occurrence:
         freq.append(n)
 
     for i in range(len(freq)-1, 0, -1):
