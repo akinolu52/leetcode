@@ -14,7 +14,6 @@ def moveZeroes(nums) -> None:
                 nums[index], nums[insert_pos] = nums[insert_pos], nums[index]
                 insert_pos += 1
 
-
 nums = [0, 1, 0, 3, 12]  # [1, 3, 12, 0, 0]
 print('nums = {}'.format(nums, moveZeroes(nums)))
 
