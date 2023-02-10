@@ -23,3 +23,7 @@ print(isMonotonic(nums))
 
 nums = [1, 5, 2]
 print(isMonotonic(nums))
+
+nums = [5, 15, 20, 10]
+print(isMonotonic(nums))
+
