@@ -5,6 +5,7 @@ class MinStack:
         self.stack = []
         self.mins = []
 
+    # extra to format display when i print result
     def __str__(self):
         return ', '.join(map(str, self.stack))
 
