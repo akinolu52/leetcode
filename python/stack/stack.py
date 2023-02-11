@@ -20,6 +20,4 @@ class Stack:
         return True
 
     def pop(self):
-        if self.isEmpty():
-            return None
-        return self.stack.pop()
+        return None if self.isEmpty() else self.stack.pop()
