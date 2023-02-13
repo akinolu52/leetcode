@@ -5,14 +5,14 @@ check if the sorted substring is equal to the sorted pattern
 
 '''
 
-def rearrange_string(str):
-    str = list(str)
-    str.sort()
 
-    return ''.join(str)
+def rearrange_string(s):
+    s.sort()
+
+    return ''.join(s)
 
 
-str = "bcdcbabcbd"
+s = "bcdcbabcbd"
 
 pattern = "abc"
 
@@ -21,8 +21,8 @@ pattern = rearrange_string(pattern)
 
 all_anagrams = []
 
-for index in range(len(str)):
-    substring = str[index: index + len(pattern)]
+for index in range(len(s)):
+    substring = s[index: index + len(pattern)]
 
     if len(substring) != len(pattern):
         break
@@ -31,4 +31,4 @@ for index in range(len(str)):
         all_anagrams.append(substring)
 
 print("All the anagram of '{}' present in '{}' are: {}".format(
-    pattern, str, ', '.join(all_anagrams)))
+    pattern, s, ', '.join(all_anagrams)))
