@@ -11,3 +11,14 @@ second.next = third
 
 lList.printList()
 
+lList.append(6)
+
+lList.push(7)
+
+lList.push(1)
+
+lList.append(4)
+
+lList.insertAfter(lList.head.next, 8)
+
+lList.printList()
