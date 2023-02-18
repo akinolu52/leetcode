@@ -12,11 +12,11 @@ class LinkedList:
         temp = self.head
 
         while temp:
-            print(temp.data, end=" ")
+            print(temp.data, end=" -> ")
             temp = temp.next
 
     # push node to the front of the list
-    def push(self, data):
+    def insertAtHead(self, data):
         newNode = Node(data)
         newNode.next = self.head
         self.head = newNode
@@ -32,7 +32,7 @@ class LinkedList:
         previousNode.next = newNode
 
     # append node to the end of the linked list
-    def append(self, data):
+    def insertAtTail(self, data):
         newNode = Node(data)
 
         if self.head is None:

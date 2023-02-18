@@ -11,13 +11,13 @@ second.next = third
 
 lList.printList()
 
-lList.append(6)
+lList.insertAtTail(6)
 
-lList.push(7)
+lList.insertAtHead(7)
 
-lList.push(1)
+lList.insertAtHead(1)
 
-lList.append(4)
+lList.insertAtTail(4)
 
 lList.insertAfter(lList.head.next, 8)
 
