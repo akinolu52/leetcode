@@ -22,14 +22,14 @@ class LinkedList:
         self.head = node
 
     def detectLoop(self) -> bool:
-        nodePointer = set()
+        s = set()
         current = self.head
 
         while current:
-            if current in nodePointer:
+            if current in s:
                 return True
 
-            nodePointer.add(current)
+            s.add(current)
             current = current.next
 
         return False
