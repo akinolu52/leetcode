@@ -25,7 +25,7 @@ class LinkedList:
         nodePointer = set()
         current = self.head
 
-        while (current):
+        while current:
             if current in nodePointer:
                 return True
 
