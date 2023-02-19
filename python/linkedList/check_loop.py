@@ -1,18 +1,11 @@
-# Python3 program to detect loop
-# in the linked list
 
-# Node class
 class Node:
-
-    # Constructor to initialize
-    # the node object
     def __init__(self, data):
         self.data = data
         self.next = None
 
 
 class LinkedList:
-    # Function to initialize head
     def __init__(self):
         self.head = None
 
