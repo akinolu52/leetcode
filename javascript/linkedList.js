@@ -109,6 +109,8 @@ class LinkedList {
             return;
         }
 
+        if (this.head == null) return;
+
         let current = this.head;
         let count = 0;
         let previous = null
