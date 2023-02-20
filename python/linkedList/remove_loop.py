@@ -31,7 +31,6 @@ class LinkedList:
         current = self.head
 
         while current:
-            # print('here ', current.data)
             print(current.data, end=' -> ')
             current = current.next
 
