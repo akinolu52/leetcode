@@ -133,6 +133,32 @@ class LinkedList {
         return;
     }
 
+    // remove value
+    removeValue(value) {
+        // if (this.checkIfOutOfBounds(index)) {
+        //     return;
+        // }
+
+        if (this.head == null) return;
+
+        let current = this.head;
+        let count = 0;
+        let previous = null
+
+        if (current.data === value) {
+            this.head = current.next;
+        }
+
+        while (current.next) {
+            if (current.data === value) {
+                current.value = current.next.value
+                current.next = current.next.next
+            }
+
+            current = current.next
+            this.printList();
+        }
+    }
     // clear list
     clearList() {
         this.size = 0;
@@ -159,28 +185,33 @@ class LinkedList {
 
 const ll = new LinkedList();
 
-ll.insertFirstNode(100)
-ll.insertFirstNode(200)
 ll.insertFirstNode(300)
-ll.insertLastNode(500)
+// ll.insertFirstNode(100)
+// ll.insertFirstNode(200)
+ll.insertFirstNode(300)
+// ll.insertFirstNode(300)
+// ll.insertFirstNode(300)
+// ll.insertLastNode(500)
+ll.insertLastNode(300)
 
 ll.printList()
 
-ll.insertAtIndex(400, 2)
-ll.getAtIndex(0)
-ll.getAtIndex(3)
+// ll.insertAtIndex(400, 2)
+// ll.getAtIndex(0)
+// ll.getAtIndex(3)
 
-ll.printList()
+// ll.printList()
 
-ll.removeAtIndex(0)
+ll.removeValue(300)
+// ll.removeAtIndex(0)
 
-ll.printList()
+// ll.printList()
 
-ll.removeAtIndex(2)
+// ll.removeAtIndex(2)
 
-ll.printList()
+// ll.printList()
 
-ll.clearList()
+// ll.clearList()
 
 ll.printList()
 
