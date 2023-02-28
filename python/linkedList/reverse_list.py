@@ -15,25 +15,17 @@ class LinkedList:
         self.head = node
 
     def reverse(self) -> Node:
+        previous = None
         current = self.head
-        stack = [None]
 
         while current:
-            stack.append(current.data)
-            current = current.next
+            temp = current.next
 
-        # stack.append(None)
-        print('Stack : ', stack,)
-        
-        self.head  = stack.pop()
+            current.next = previous
+            previous = current
 
-        while stack:
-            current.next = stack.pop()
-            current = current.next
-            print('Stack : ', stack)
+            current = temp
 
-        current.next = None
-        # print(stack, self.head.next.data)
 
     def printList(self):
         current = self.head
