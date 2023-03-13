@@ -32,11 +32,7 @@ for word in s_arr:
     if word in banned or word == '':
         continue
 
-    if lookup.get(word):
-        lookup[word] = lookup[word] + 1
-    else:
-        lookup[word] = 1
-
+    lookup[word] = lookup[word] + 1 if lookup.get(word) else 1
 values = lookup.values()
 max_occurrences = max(values)
 
