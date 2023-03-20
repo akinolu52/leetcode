@@ -1,24 +1,45 @@
 from linkedList import LinkedList, Node
 
-lList = LinkedList()
+ll = LinkedList()
 
-lList.head = Node(1)
+ll.head = Node(1)
 second = Node(2)
 third = Node(3)
 
-lList.head.next = second
+ll.head.next = second
 second.next = third
 
-lList.printList()
+ll.printList()
 
-lList.insertAtTail(6)
+# ll.insertAtTail(6)
 
-lList.insertAtHead(7)
+# ll.insertAtHead(7)
 
-lList.insertAtHead(1)
+# ll.insertAtHead(1)
 
-lList.insertAtTail(4)
+# ll.insertAtTail(4)
 
-lList.insertAfter(lList.head.next, 8)
+# ll.insertAfter(ll.head.next, 8)
 
-lList.printList()
+# ll.printList()
+
+# const x = undefined;
+
+# if (x) {
+#      console.log('okay')
+# }
+
+
+# head -> 1 (next -> 2 -> next -> 3)
+# 1 -> 2 -> 3 -> %  
+
+# temp = head
+
+# while temp:
+#     print(temp.data)
+#     temp = temp.next
+
+
+
+
+

@@ -171,7 +171,6 @@ class LinkedList {
         const result = []
 
         while (current) {
-            // console.log(current.data);
             result.push(current.data);
             current = current.next;
         }
@@ -186,9 +185,9 @@ class LinkedList {
 const ll = new LinkedList();
 
 ll.insertFirstNode(300)
-// ll.insertFirstNode(100)
-// ll.insertFirstNode(200)
-ll.insertFirstNode(300)
+ll.insertFirstNode(200)
+ll.insertFirstNode(100)
+// ll.insertFirstNode(300)
 // ll.insertFirstNode(300)
 // ll.insertFirstNode(300)
 // ll.insertLastNode(500)

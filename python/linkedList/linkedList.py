@@ -1,7 +1,7 @@
 class Node:
     def __init__(self, data):
         self.data = data
-        self.next = None
+        self.next = None # ref to the next node
 
 
 class LinkedList:
@@ -12,7 +12,7 @@ class LinkedList:
         temp = self.head
 
         while temp:
-            print(temp.data, end=" -> ")
+            print(temp, end=" -> ")
             temp = temp.next
 
     # push node to the front of the list
