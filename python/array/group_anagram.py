@@ -1,23 +1,27 @@
+'''
+ - The code iterates over the list of strings, and creates a dictionary called lookup.
+ - The keys in this dictionary are the string names, and the values are lists of all possible anagrams for that word.
+ - The code then iterates through each string in turn, creating a new list with just one item: its anagram.
+ - If it already exists in lookup, it adds itself to that list; otherwise it creates a new list with just one item: its anagram.
+ - The code attempts to return a list of all the words in strs that are anagrams of each other.
+ - The code first creates a lookup dictionary that will be used to store the anagrams.
+ - The lookup dictionary is created with two keys, one for each word in strs .
+ - The value associated with each key is a list of every possible combination of letters for that word.
+ - For example, if we have "eat" and "tea", then the value associated with eat would be ["e", "i", "t"] and the value associated with tea would be ["t", "e", "a"] .
+'''
 
 def groupAnagrams(strs):
-    def rearrange_string(s):
-        s = list(s)
-        s.sort()
-
-        return ''.join(s)
-
-    # sortedString: [array of inputted string]
     lookup = {}
 
     for s in strs:
-        _s = rearrange_string(s)
+        sortedStr = ''.join(sorted(s))
 
-        if _s in lookup:
-            lookup[_s] += [s]
+        if sortedStr in lookup:
+            lookup[sortedStr] += [s]
         else:
-            lookup[_s] = [s]
+            lookup[sortedStr] = [s]
 
-    return list(lookup.values())
+    return lookup.values()
 
 
 strs = ["eat", "tea", "tan", "ate", "nat", "bat"]
