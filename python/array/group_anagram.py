@@ -1,4 +1,5 @@
 '''
+ - Explanation by Denigma (check vs-code extension)
  - The code iterates over the list of strings, and creates a dictionary called lookup.
  - The keys in this dictionary are the string names, and the values are lists of all possible anagrams for that word.
  - The code then iterates through each string in turn, creating a new list with just one item: its anagram.
@@ -7,7 +8,6 @@
  - The code first creates a lookup dictionary that will be used to store the anagrams.
  - The lookup dictionary is created with two keys, one for each word in strs .
  - The value associated with each key is a list of every possible combination of letters for that word.
- - For example, if we have "eat" and "tea", then the value associated with eat would be ["e", "i", "t"] and the value associated with tea would be ["t", "e", "a"] .
 '''
 
 def groupAnagrams(strs):
