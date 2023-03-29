@@ -9,17 +9,13 @@ You must write an algorithm with O(log n) runtime complexity.
 
 '''
 
-
 def searchInsert(nums, target: int) -> int:
-    # check if the target is present in the nums list and return the index
-    if target in nums:
-        return nums.index(target)
-
-    # if it does not exist add it to the list and return the index
-    else:
+    # check if the target is not present in the nums list, add it and return the index
+    if target not in nums:
         nums.append(target)
         nums.sort()
-        return nums.index(target)
+
+    return nums.index(target)
 
 
 nums = [1, 3, 5, 6]
