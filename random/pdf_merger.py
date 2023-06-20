@@ -20,6 +20,6 @@ merger.append(doc3)
 merger.append(doc4)
 
 output = open(
-    "/Users/mac/Documents/Canada Documents/merged-document.pdf", "wb"
+    "/Users/mac/Documents/document.pdf", "wb"
 )
 merger.write(output)
