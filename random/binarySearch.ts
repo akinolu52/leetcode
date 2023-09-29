@@ -15,13 +15,17 @@ function binarySearch(sortedArr: Array<string | number>, find: string | number):
         const mid = Math.floor((left + right) / 2);
         const midValue = sortedArr[mid];
 
-        if (find === midValue) return mid;
-        else if (find < midValue) right = mid - 1;
-        else left = mid + 1;
+        if (find === midValue) {
+            return mid;
+        } else if (find < midValue) {
+            right = mid - 1;
+        } else {
+            left = mid + 1;
+        }
     }
 
     // console.log(mp);
-    
+
     return -1;
 };
 
