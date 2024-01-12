@@ -1,0 +1,6 @@
+john.doe@gmail.com
+jane.smith@yahoo.com
+project.manager@outlook.com
+tech.support@company.org
+coordinator.team@enterprise.net
+urgent.queries@serviceprovider.com

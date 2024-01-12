@@ -1,0 +1,134 @@
+id,name,slug,code,longcode,gateway,pay_with_bank,active,country,currency,type,is_deleted,createdAt,updatedAt
+302,9mobile 9Payment Service Bank,9mobile-9payment-service-bank-ng,120001,120001,,False,True,Nigeria,NGN,nuban,False,2022-05-31T06:50:27.000Z,2022-06-23T09:33:55.000Z
+174,Abbey Mortgage Bank,abbey-mortgage-bank-ng,404,,,False,True,Nigeria,NGN,nuban,False,2020-12-07T16:19:09.000Z,2023-09-14T13:02:38.000Z
+188,Above Only MFB,above-only-mfb,51204,,,False,True,Nigeria,NGN,nuban,False,2021-10-13T20:35:17.000Z,2021-10-13T20:35:17.000Z
+627,Abulesoro MFB,abulesoro-mfb-ng,51312,,,False,True,Nigeria,NGN,nuban,False,2022-08-31T08:26:20.000Z,2022-08-31T08:26:20.000Z
+1,Access Bank,access-bank,044,044150149,emandate,False,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2020-02-18T08:06:44.000Z
+3,Access Bank (Diamond),access-bank-diamond,063,063150162,emandate,False,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2020-02-18T08:06:48.000Z
+495,Accion Microfinance Bank,accion-microfinance-bank-ng,602,,emandate,False,True,Nigeria,NGN,nuban,False,2022-07-28T14:22:56.000Z,2022-09-19T07:48:37.000Z
+676,Ahmadu Bello University Microfinance Bank,ahmadu-bello-university-microfinance-bank-ng,50036,,,False,True,Nigeria,NGN,nuban,False,2022-11-14T13:35:42.000Z,2022-11-14T13:35:42.000Z
+300,Airtel Smartcash PSB,airtel-smartcash-psb-ng,120004,120004,,False,True,Nigeria,NGN,nuban,False,2022-05-30T14:03:00.000Z,2022-05-31T06:58:22.000Z
+698,AKU Microfinance Bank,aku-mfb,51336,,,False,True,Nigeria,NGN,nuban,False,2023-05-04T15:12:34.000Z,2023-05-04T15:12:34.000Z
+497,Akuchukwu Microfinance Bank Limited,akuchukwu-microfinance-bank-limited-ng,090561,090561,emandate,False,True,Nigeria,NGN,nuban,False,2022-07-28T14:22:56.000Z,2023-11-03T12:09:37.000Z
+27,ALAT by WEMA,alat-by-wema,035A,035150103,emandate,False,True,Nigeria,NGN,nuban,False,2017-11-15T12:21:31.000Z,2022-05-31T15:54:34.000Z
+707,Amegy Microfinance Bank,amegy-microfinance-bank-ng,090629,090629,,False,True,Nigeria,NGN,nuban,False,2023-07-20T09:52:18.000Z,2023-07-20T09:52:18.000Z
+179,Amju Unique MFB,amju-unique-mfb,50926,511080896,,False,True,Nigeria,NGN,nuban,False,2021-07-07T13:45:57.000Z,2021-07-07T13:45:57.000Z
+689,AMPERSAND MICROFINANCE BANK,ampersand-microfinance-bank-ng,51341,,,False,True,Nigeria,NGN,nuban,False,2023-03-23T11:11:40.000Z,2023-03-23T11:11:40.000Z
+614,Aramoko MFB,aramoko-mfb,50083,,,False,True,Nigeria,NGN,nuban,False,2022-08-10T09:48:24.000Z,2022-08-10T09:48:24.000Z
+63,ASO Savings and Loans,asosavings,401,,,False,True,Nigeria,NGN,nuban,False,2018-09-23T05:52:38.000Z,2019-01-30T09:38:57.000Z
+297,Astrapolaris MFB LTD,astrapolaris-mfb,MFB50094,,,False,True,Nigeria,NGN,nuban,False,2022-05-25T10:46:17.000Z,2022-05-25T10:46:17.000Z
+181,Bainescredit MFB,bainescredit-mfb,51229,,,False,True,Nigeria,NGN,nuban,False,2021-07-12T14:41:18.000Z,2021-07-12T14:41:18.000Z
+686,Banc Corp Microfinance Bank,banc-corp-microfinance-bank-ng,50117,50117,,False,True,Nigeria,NGN,nuban,False,2023-03-06T15:39:58.000Z,2023-03-06T15:39:58.000Z
+108,Bowen Microfinance Bank,bowen-microfinance-bank,50931,,,False,True,Nigeria,NGN,nuban,False,2020-02-11T15:38:57.000Z,2020-02-11T15:38:57.000Z
+697,Branch International Financial Services Limited,branch,FC40163,,,False,True,Nigeria,NGN,nuban,False,2023-05-04T09:49:07.000Z,2023-05-04T09:49:07.000Z
+82,Carbon,carbon,565,,,False,True,Nigeria,NGN,nuban,False,2020-06-16T08:15:31.000Z,2021-08-05T15:25:01.000Z
+692,CASHCONNECT MFB,cashconnect-mfb-ng,865,865,,False,True,Nigeria,NGN,nuban,False,2023-04-05T14:29:19.000Z,2023-04-05T14:29:19.000Z
+74,CEMCS Microfinance Bank,cemcs-microfinance-bank,50823,,,False,True,Nigeria,NGN,nuban,False,2020-03-23T15:06:13.000Z,2020-03-23T15:06:28.000Z
+284,Chanelle Microfinance Bank Limited,chanelle-microfinance-bank-limited-ng,50171,50171,,False,True,Nigeria,NGN,nuban,False,2022-02-10T13:28:38.000Z,2022-02-10T13:28:38.000Z
+704,Chikum Microfinance bank,chikum-microfinance-bank-ng,312,null,,False,True,Nigeria,NGN,nuban,False,2023-07-03T11:21:07.000Z,2023-07-03T11:21:07.000Z
+2,Citibank Nigeria,citibank-nigeria,023,023150005,,False,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2020-02-18T20:24:02.000Z
+691,Consumer Microfinance Bank,consumer-microfinance-bank-ng,50910,50910,,False,True,Nigeria,NGN,nuban,False,2023-03-28T06:18:02.000Z,2023-03-28T06:18:02.000Z
+283,Corestep MFB,corestep-mfb,50204,,,False,True,Nigeria,NGN,nuban,False,2022-02-09T14:33:06.000Z,2022-02-09T14:33:06.000Z
+173,Coronation Merchant Bank,coronation-merchant-bank-ng,559,,,False,True,Nigeria,NGN,nuban,False,2020-11-24T10:25:07.000Z,2023-05-04T06:49:08.000Z
+694,County Finance Limited,county-finance-limited,FC40128,,,False,True,Nigeria,NGN,nuban,False,2023-04-26T14:24:23.000Z,2023-04-26T14:24:23.000Z
+366,Crescent MFB,crescent-mfb,51297,,,False,True,Nigeria,NGN,nuban,False,2022-07-18T12:39:03.000Z,2022-07-18T12:39:03.000Z
+738,Davenport MICROFINANCE BANK,davenport-microfinance-bank-ng,51334,51334,,False,True,Nigeria,NGN,nuban,False,2023-11-20T13:30:56.000Z,2023-11-20T13:30:56.000Z
+637,Dot Microfinance Bank,dot-microfinance-bank-ng,50162,,,False,True,Nigeria,NGN,nuban,False,2022-11-03T14:39:09.000Z,2022-11-03T14:39:09.000Z
+4,Ecobank Nigeria,ecobank-nigeria,050,050150010,,False,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2020-02-18T20:23:53.000Z
+628,Ekimogun MFB,ekimogun-mfb-ng,50263,,,False,True,Nigeria,NGN,nuban,False,2022-08-31T08:26:39.000Z,2022-08-31T08:26:39.000Z
+64,Ekondo Microfinance Bank,ekondo-microfinance-bank-ng,098,,,False,True,Nigeria,NGN,nuban,False,2018-09-23T05:55:06.000Z,2022-09-21T15:09:51.000Z
+167,Eyowo,eyowo,50126,,,False,True,Nigeria,NGN,nuban,False,2020-09-07T13:52:22.000Z,2020-11-24T10:03:21.000Z
+677,Fairmoney Microfinance Bank,fairmoney-microfinance-bank-ng,51318,,,False,True,Nigeria,NGN,nuban,False,2022-11-15T12:33:47.000Z,2022-11-15T12:37:44.000Z
+6,Fidelity Bank,fidelity-bank,070,070150003,emandate,False,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2021-08-27T09:15:29.000Z
+177,Firmus MFB,firmus-mfb,51314,,,False,True,Nigeria,NGN,nuban,False,2021-06-01T15:33:26.000Z,2021-06-01T15:33:26.000Z
+7,First Bank of Nigeria,first-bank-of-nigeria,011,011151003,ibank,False,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2021-03-25T14:22:52.000Z
+8,First City Monument Bank,first-city-monument-bank,214,214150018,emandate,False,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2020-02-18T08:06:46.000Z
+682,FirstTrust Mortgage Bank Nigeria,firsttrust-mortgage-bank-nigeria-ng,413,,,False,True,Nigeria,NGN,nuban,False,2023-02-17T12:12:37.000Z,2023-06-15T16:21:12.000Z
+687,FLOURISH MFB,flourish-mfb-ng,50315,50315,,False,True,Nigeria,NGN,nuban,False,2023-03-09T08:11:06.000Z,2023-03-09T08:11:06.000Z
+112,FSDH Merchant Bank Limited,fsdh-merchant-bank-limited,501,,,False,True,Nigeria,NGN,nuban,False,2020-08-20T09:37:04.000Z,2020-11-24T10:03:22.000Z
+716,FUTMINNA MICROFINANCE BANK,futminna-microfinance-bank-ng,832,832,,False,True,Nigeria,NGN,nuban,False,2023-10-11T13:24:17.000Z,2023-10-11T13:24:17.000Z
+287,Gateway Mortgage Bank LTD,gateway-mortgage-bank,812,,,False,True,Nigeria,NGN,nuban,False,2022-02-24T06:04:39.000Z,2022-02-24T06:04:39.000Z
+70,Globus Bank,globus-bank,00103,103015001,,False,True,Nigeria,NGN,nuban,False,2020-02-11T15:38:57.000Z,2020-02-11T15:38:57.000Z
+183,GoMoney,gomoney,100022,,,False,True,Nigeria,NGN,nuban,False,2021-08-04T11:49:46.000Z,2021-11-12T13:32:14.000Z
+635,Goodnews Microfinance Bank,goodnews-microfinance-bank-ng,50739,,,False,True,Nigeria,NGN,nuban,False,2022-09-29T09:14:18.000Z,2022-10-18T14:59:07.000Z
+633,Greenwich Merchant Bank,greenwich-merchant-bank-ng,562,,,False,True,Nigeria,NGN,nuban,False,2022-09-16T15:23:58.000Z,2022-09-16T15:23:58.000Z
+9,Guaranty Trust Bank,guaranty-trust-bank,058,058152036,ibank,True,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2023-06-22T08:50:47.000Z
+111,Hackman Microfinance Bank,hackman-microfinance-bank,51251,,,False,True,Nigeria,NGN,nuban,False,2020-08-20T09:32:48.000Z,2020-11-24T10:03:24.000Z
+81,Hasal Microfinance Bank,hasal-microfinance-bank,50383,,,False,True,Nigeria,NGN,nuban,False,2020-02-11T15:38:57.000Z,2020-02-11T15:38:57.000Z
+10,Heritage Bank,heritage-bank,030,030159992,,False,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2020-02-18T20:24:23.000Z
+301,HopePSB,hopepsb-ng,120002,120002,,False,True,Nigeria,NGN,nuban,False,2022-05-30T14:03:18.000Z,2022-05-30T14:03:18.000Z
+168,Ibile Microfinance Bank,ibile-mfb,51244,,,False,True,Nigeria,NGN,nuban,False,2020-10-21T10:54:20.000Z,2020-10-21T10:54:33.000Z
+615,Ikoyi Osun MFB,ikoyi-osun-mfb,50439,,,False,True,Nigeria,NGN,nuban,False,2022-08-10T09:48:24.000Z,2022-08-10T09:48:24.000Z
+636,Ilaro Poly Microfinance Bank,ilaro-poly-microfinance-bank-ng,50442,,,False,True,Nigeria,NGN,nuban,False,2022-10-12T09:15:26.000Z,2022-10-12T09:15:26.000Z
+703,Imowo MFB,imowo-mfb-ng,50453,50453,,False,True,Nigeria,NGN,nuban,False,2023-06-26T13:50:15.000Z,2023-06-26T13:50:15.000Z
+172,Infinity MFB,infinity-mfb,50457,,,False,True,Nigeria,NGN,nuban,False,2020-11-24T10:23:37.000Z,2020-11-24T10:23:37.000Z
+22,Jaiz Bank,jaiz-bank,301,301080020,,False,True,Nigeria,NGN,nuban,False,2016-10-10T17:26:29.000Z,2016-10-10T17:26:29.000Z
+187,Kadpoly MFB,kadpoly-mfb,50502,,,False,True,Nigeria,NGN,nuban,False,2021-09-27T11:59:42.000Z,2021-09-27T11:59:42.000Z
+11,Keystone Bank,keystone-bank,082,082150017,,False,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2020-02-18T20:23:45.000Z
+184,Kredi Money MFB LTD,kredi-money-mfb,50200,,,False,True,Nigeria,NGN,nuban,False,2021-08-11T09:54:03.000Z,2021-08-11T09:54:03.000Z
+67,Kuda Bank,kuda-bank,50211,,digitalbankmandate,True,True,Nigeria,NGN,nuban,False,2019-11-15T17:06:54.000Z,2023-07-19T11:26:13.000Z
+109,Lagos Building Investment Company Plc.,lbic-plc,90052,,,False,True,Nigeria,NGN,nuban,False,2020-08-10T15:07:44.000Z,2020-08-10T15:07:44.000Z
+180,Links MFB,links-mfb,50549,,,False,True,Nigeria,NGN,nuban,False,2021-07-12T14:41:18.000Z,2021-07-12T14:41:18.000Z
+296,Living Trust Mortgage Bank,living-trust-mortgage-bank,031,,,False,True,Nigeria,NGN,nuban,False,2022-05-25T10:46:17.000Z,2022-05-25T10:46:17.000Z
+233,Lotus Bank,lotus-bank,303,,,False,True,Nigeria,NGN,nuban,False,2021-12-06T14:39:51.000Z,2021-12-06T14:39:51.000Z
+175,Mayfair MFB,mayfair-mfb,50563,,,False,True,Nigeria,NGN,nuban,False,2021-02-02T08:28:38.000Z,2021-02-02T08:28:38.000Z
+178,Mint MFB,mint-mfb,50304,,,False,True,Nigeria,NGN,nuban,False,2021-06-01T16:07:29.000Z,2021-06-01T16:07:29.000Z
+714,Money Master PSB,money-master-psb-ng,946,,,False,True,Nigeria,NGN,nuban,False,2023-09-08T14:47:32.000Z,2023-09-14T12:56:51.000Z
+688,Moniepoint MFB,moniepoint-mfb-ng,50515,null,,False,True,Nigeria,NGN,nuban,False,2023-03-20T12:53:58.000Z,2023-03-20T12:53:58.000Z
+303,MTN Momo PSB,mtn-momo-psb-ng,120003,120003,,False,True,Nigeria,NGN,nuban,False,2022-05-31T06:52:07.000Z,2022-06-23T09:33:55.000Z
+739,MUTUAL BENEFITS MICROFINANCE BANK,mutual-benefits-microfinance-bank-ng,090190,090190,,False,True,Nigeria,NGN,nuban,False,2023-11-21T07:41:39.000Z,2023-11-21T07:41:39.000Z
+715,NPF MICROFINANCE BANK,npf-microfinance-bank-ng,50629,50629,,False,True,Nigeria,NGN,nuban,False,2023-09-12T11:57:02.000Z,2023-09-12T19:24:09.000Z
+171,OPay Digital Services Limited (OPay),paycom,999992,,ibank,True,True,Nigeria,NGN,nuban,False,2020-11-24T10:20:45.000Z,2023-10-06T09:16:49.000Z
+699,Optimus Bank Limited,optimus-bank-ltd,107,00107,,False,True,Nigeria,NGN,nuban,False,2023-05-08T08:03:03.000Z,2023-06-15T16:21:12.000Z
+185,Paga,paga,100002,,,False,True,Nigeria,NGN,nuban,False,2021-08-31T08:10:00.000Z,2021-08-31T08:10:00.000Z
+169,PalmPay,palmpay,999991,,,False,True,Nigeria,NGN,nuban,False,2020-11-24T09:58:37.000Z,2020-11-24T10:03:19.000Z
+26,Parallex Bank,parallex-bank,104,,,False,True,Nigeria,NGN,nuban,False,2017-03-31T13:54:29.000Z,2021-10-29T08:00:19.000Z
+110,Parkway - ReadyCash,parkway-ready-cash,311,,,False,True,Nigeria,NGN,nuban,False,2020-08-10T15:07:44.000Z,2020-08-10T15:07:44.000Z
+629,Paystack-Titan,titan-paystack,100039,,,False,True,Nigeria,NGN,nuban,False,2022-09-02T08:51:15.000Z,2023-09-05T16:02:21.000Z
+693,Peace Microfinance Bank,peace-microfinance-bank-ng,50743,50743,,False,True,Nigeria,NGN,nuban,False,2023-04-12T16:51:04.000Z,2023-04-12T16:51:04.000Z
+683,Personal Trust MFB,personal-trust-mfb-ng,51146,,,False,True,Nigeria,NGN,nuban,False,2023-02-17T12:13:28.000Z,2023-02-17T12:13:28.000Z
+170,Petra Mircofinance Bank Plc,petra-microfinance-bank-plc,50746,,,False,True,Nigeria,NGN,nuban,False,2020-11-24T10:03:06.000Z,2020-11-24T10:03:06.000Z
+705,Platinum Mortgage Bank,platinum-mortgage-bank-ng,268,null,,False,True,Nigeria,NGN,nuban,False,2023-07-03T11:21:22.000Z,2023-07-03T11:21:22.000Z
+13,Polaris Bank,polaris-bank,076,076151006,,False,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2016-07-14T10:04:29.000Z
+626,Polyunwana MFB,polyunwana-mfb-ng,50864,null,,False,True,Nigeria,NGN,nuban,False,2022-08-17T17:27:23.000Z,2022-08-17T17:27:23.000Z
+304,PremiumTrust Bank,premiumtrust-bank-ng,105,000031,,False,True,Nigeria,NGN,nuban,False,2022-06-01T14:16:02.000Z,2022-08-17T08:13:08.000Z
+25,Providus Bank,providus-bank,101,,,False,True,Nigeria,NGN,nuban,False,2017-03-27T16:09:29.000Z,2021-02-09T17:50:06.000Z
+232,QuickFund MFB,quickfund-mfb,51293,,,False,True,Nigeria,NGN,nuban,False,2021-10-29T08:43:35.000Z,2021-10-29T08:43:35.000Z
+176,Rand Merchant Bank,rand-merchant-bank,502,,,False,True,Nigeria,NGN,nuban,False,2021-02-11T17:33:20.000Z,2021-02-11T17:33:20.000Z
+295,Refuge Mortgage Bank,refuge-mortgage-bank,90067,,,False,True,Nigeria,NGN,nuban,False,2022-05-25T10:46:17.000Z,2022-05-25T10:46:17.000Z
+710,Rephidim Microfinance Bank,rephidim,50994,221151615,,False,True,Nigeria,NGN,nuban,False,2023-08-21T08:22:46.000Z,2023-08-21T08:22:46.000Z
+700,Rigo Microfinance Bank Limited,rigo-microfinance-bank-limited-ng,51286,51286,,False,True,Nigeria,NGN,nuban,False,2023-05-26T14:45:26.000Z,2023-05-26T14:45:26.000Z
+679,ROCKSHIELD MICROFINANCE BANK,rockshield-microfinance-bank-ng,50767,,,False,True,Nigeria,NGN,nuban,False,2022-12-20T13:41:50.000Z,2022-12-20T14:27:14.000Z
+69,Rubies MFB,rubies-mfb,125,,,False,True,Nigeria,NGN,nuban,False,2020-01-25T09:49:59.000Z,2020-01-25T09:49:59.000Z
+286,Safe Haven MFB,safe-haven-mfb-ng,51113,51113,,False,True,Nigeria,NGN,nuban,False,2022-02-18T13:11:59.000Z,2022-02-18T13:11:59.000Z
+609,Safe Haven Microfinance Bank Limited,safe-haven-microfinance-bank-limited-ng,951113,,emandate,False,True,Nigeria,NGN,nuban,False,2022-07-28T14:22:56.000Z,2022-12-02T10:51:53.000Z
+706,SAGE GREY FINANCE LIMITED,sage-grey-finance-limited-ng,40165,null,,False,True,Nigeria,NGN,nuban,False,2023-07-05T08:27:27.000Z,2023-07-05T08:27:27.000Z
+632,Shield MFB,shield-mfb-ng,50582,,,False,True,Nigeria,NGN,nuban,False,2022-09-16T15:16:47.000Z,2022-09-16T15:16:47.000Z
+695,Solid Allianze MFB,solid-allianze-mfb,51062,,,False,True,Nigeria,NGN,nuban,False,2023-04-26T15:02:23.000Z,2023-04-26T15:02:23.000Z
+365,Solid Rock MFB,solid-rock-mfb,50800,,,False,True,Nigeria,NGN,nuban,False,2022-06-27T10:24:28.000Z,2022-06-27T10:24:28.000Z
+72,Sparkle Microfinance Bank,sparkle-microfinance-bank,51310,,,False,True,Nigeria,NGN,nuban,False,2020-02-11T18:43:14.000Z,2020-02-11T18:43:14.000Z
+14,Stanbic IBTC Bank,stanbic-ibtc-bank,221,221159522,,False,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2020-02-18T20:24:17.000Z
+15,Standard Chartered Bank,standard-chartered-bank,068,068150015,,False,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2020-02-18T20:23:40.000Z
+285,Stellas MFB,stellas-mfb,51253,,,False,True,Nigeria,NGN,nuban,False,2022-02-17T14:54:01.000Z,2022-02-17T14:54:01.000Z
+16,Sterling Bank,sterling-bank,232,232150016,emandate,False,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2022-05-27T08:56:01.000Z
+23,Suntrust Bank,suntrust-bank,100,,,False,True,Nigeria,NGN,nuban,False,2016-10-10T17:26:29.000Z,2016-10-10T17:26:29.000Z
+631,Supreme MFB,supreme-mfb-ng,50968,,,False,True,Nigeria,NGN,nuban,False,2022-09-16T15:16:29.000Z,2022-09-16T15:16:29.000Z
+68,TAJ Bank,taj-bank,302,,,False,True,Nigeria,NGN,nuban,False,2020-01-20T11:20:32.000Z,2020-01-20T11:20:32.000Z
+634,Tanadi Microfinance Bank,tanadi-microfinance-bank-ng,090560,,ibank,False,True,Nigeria,NGN,nuban,False,2022-09-22T09:14:25.000Z,2022-09-22T09:14:25.000Z
+186,Tangerine Money,tangerine-money,51269,,,False,True,Nigeria,NGN,nuban,False,2021-09-17T13:25:16.000Z,2021-09-17T13:25:16.000Z
+75,TCF MFB,tcf-mfb,51211,,,False,True,Nigeria,NGN,nuban,False,2020-04-03T09:34:35.000Z,2020-04-03T09:34:35.000Z
+73,Titan Bank,titan-bank,102,,,False,True,Nigeria,NGN,nuban,False,2020-03-10T11:41:36.000Z,2020-03-23T15:06:29.000Z
+690,U&C Microfinance Bank Ltd (U AND C MFB),uc-microfinance-bank-ltd-u-and-c-mfb-ng,50840,50840,,False,True,Nigeria,NGN,nuban,False,2023-03-27T16:55:53.000Z,2023-03-27T16:55:53.000Z
+630,Uhuru MFB,uhuru-mfb-ng,51322,,,False,True,Nigeria,NGN,nuban,False,2022-09-14T12:58:20.000Z,2023-09-05T17:23:38.000Z
+678,Unaab Microfinance Bank Limited,unaab-microfinance-bank-limited-ng,50870,,,False,True,Nigeria,NGN,nuban,False,2022-11-24T13:47:10.000Z,2022-11-24T13:49:16.000Z
+282,Unical MFB,unical-mfb,50871,,,False,True,Nigeria,NGN,nuban,False,2022-01-10T09:52:47.000Z,2022-01-10T09:52:47.000Z
+638,Unilag Microfinance Bank,unilag-microfinance-bank-ng,51316,,,False,True,Nigeria,NGN,nuban,False,2022-11-07T07:41:50.000Z,2022-11-07T07:41:50.000Z
+17,Union Bank of Nigeria,union-bank-of-nigeria,032,032080474,emandate,False,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2020-02-18T20:22:54.000Z
+18,United Bank For Africa,united-bank-for-africa,033,033153513,emandate,False,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2022-03-09T10:28:57.000Z
+19,Unity Bank,unity-bank,215,215154097,emandate,False,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2019-07-22T12:44:02.000Z
+737,Uzondu Microfinance Bank Awka Anambra State,uzondu-microfinance-bank-awka-anambra-state-ng,50894,50894,,False,True,Nigeria,NGN,nuban,False,2023-10-31T13:19:39.000Z,2023-10-31T13:19:39.000Z
+725,Vale Finance Limited,vale-finance,050020,,emandate,False,True,Nigeria,NGN,nuban,False,2023-10-26T14:23:46.000Z,2023-10-26T14:23:46.000Z
+71,VFD Microfinance Bank Limited,vfd,566,,,False,True,Nigeria,NGN,nuban,False,2020-02-11T15:44:11.000Z,2020-10-28T09:42:08.000Z
+701,Waya Microfinance Bank,waya-microfinance-bank-ng,51355,51355,,False,True,Nigeria,NGN,nuban,False,2023-05-31T15:50:49.000Z,2023-05-31T15:50:49.000Z
+20,Wema Bank,wema-bank,035,035150103,,False,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2021-02-09T17:49:59.000Z
+21,Zenith Bank,zenith-bank,057,057150013,emandate,False,True,Nigeria,NGN,nuban,False,2016-07-14T10:04:29.000Z,2023-09-26T17:09:43.000Z
