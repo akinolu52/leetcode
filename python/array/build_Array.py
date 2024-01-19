@@ -8,12 +8,7 @@ A zero-based permutation nums is an array of distinct integers from 0 to nums.le
 
 
 def buildArray(nums) -> int:
-    ans = []
-
-    for index in range(len(nums)):
-        ans.append(nums[nums[index]])
-
-    return ans
+    return [nums[nums[index]] for index in range(len(nums))]
 
 
 nums = [0, 2, 1, 5, 3, 4]  # [0, 1, 2, 4, 5, 3]
