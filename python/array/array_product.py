@@ -9,26 +9,22 @@ def productExceptSelf(nums):
 
     result = []
 
-    if 0 not in nums:
-        product = 1
+    product = 1
 
+    if 0 not in nums:
         for num in nums:
             product *= num
 
-        for num in nums:
-            result.append(int(product / num))
-
+        result.extend(int(product / num) for num in nums)
     else:
         zero_index = []
-        product = 1
-
         for index, num in enumerate(nums):
             if num == 0:
                 zero_index.append(index)
                 continue
 
             product *= num
-        
+
         if len(zero_index) > 1:
             return [0] * len(nums)
 
@@ -36,7 +32,7 @@ def productExceptSelf(nums):
             if index in zero_index:
                 result.append(product)
                 continue
-            
+
             result.append(0)
 
     return result

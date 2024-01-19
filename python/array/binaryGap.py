@@ -19,14 +19,9 @@ N is an integer within the range [1..2,147,483,647].
 
 
 def solution(N):
-    oneArr = []
     binN = bin(N).replace('0b', '')
-    print(binN)
 
-    for index, char in enumerate(binN):
-        if int(char) == 1:
-            # print(index, char)
-            oneArr.append(index)
+    oneArr = [index for index, char in enumerate(binN) if int(char) == 1]
 
     maxDiff = 0
     for index in range(len(oneArr)):
